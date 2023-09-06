@@ -1,5 +1,6 @@
 # CSA-induction
 How to Play:
+
 1.The game starts with you and the dealer each receiving two cards from a standard deck of 52 cards.
 
 2.Your goal is to have a hand value closer to 21 than the dealer without going over 21.
